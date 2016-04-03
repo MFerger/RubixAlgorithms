@@ -13,11 +13,12 @@ Yellow Cross: F U R U’ R’ F’
 3rd Layer:
 
 Cross aligned: R U R’ U R U U R’ U (switches front top and left top pieces)
+
 Sometimes an extra time for opposite sides switched:
 R U R’ U R U U R’ U - U2 - R U R’ U R U U R’ U - U
 
 Position corners correctly:  U R U’ L’ U R’ U’ L
-------------------------------------------------------------------------------
+
 If 2 corners next to each other: 2(R’ D’ R D) - U - 4(R’ D’ R D) - U
 (Put on back side)
 
