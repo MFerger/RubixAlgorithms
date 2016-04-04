@@ -7,7 +7,7 @@ To the left: U’ L’ U L U F U’ F’
 If switched: U R U' R' U' F' U F U2 (then to the right) U R U’ R’ U’ F’ U F
 
 Yellow Cross: F U R U’ R’ F’
-('L' is opposite corners)
+('L' is opposite corners
 
 
 3rd Layer:
