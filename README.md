@@ -19,7 +19,7 @@ R U R’ U R U U R’ U - U2 - R U R’ U R U U R’ U - U
 
 Position corners correctly:  U R U’ L’ U R’ U’ L
 
-If 2 corners next to each other: 2(R’ D’ R D) - U - 4(R’ D’ R D) - U
+If 2 corners next to each other: 2(R’ D’ R D) - U' - 4(R’ D’ R D) - U
 (Put on back side)
 
 If only 1 corner: 2(R’ D’ R D) - U - 2(R’ D’ R D) - U2 - 2(R’ D’ R D) - U
